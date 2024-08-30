@@ -6,4 +6,3 @@ Polymer is Ethereum’s Interoperability Hub, connecting Ethereum Layer 2’s us
 
 [PreviousINCO](broken-reference)[NextChallenge 1](broken-reference)
 
-Last updated 5 months ago

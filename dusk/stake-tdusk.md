@@ -26,4 +26,3 @@ grep "execute_state_transition" /var/log/rusk.log | tail -n 5
 
 PreviousRun Node
 
-Last updated 6 months ago

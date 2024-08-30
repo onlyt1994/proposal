@@ -14,4 +14,3 @@ The withdraw process will take you up to 7 days
 
 [PreviousTransfer tokens](broken-reference)[NextInteract with dApps](broken-reference)
 
-Last updated 6 months ago

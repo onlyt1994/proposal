@@ -26,4 +26,3 @@ Wait a minute then check your wallet!
 
 PreviousWalletNextRun Node
 
-Last updated 6 months ago

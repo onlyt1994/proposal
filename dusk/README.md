@@ -8,4 +8,3 @@ Node Installation Docs
 
 [PreviousAeroscraper NFT](<../.gitbook/assets/aeroscraper nft>)[NextWallet](../.gitbook/assets/wallet)
 
-Last updated 6 months ago

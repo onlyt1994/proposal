@@ -38,4 +38,3 @@ If you reached here, congratulation!! You done for this task
 
 [PreviousBridge tokens](broken-reference)NextCESS
 
-Last updated 6 months ago

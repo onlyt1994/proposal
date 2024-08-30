@@ -52,4 +52,3 @@ Here is just more tasks in Aeroscraper dApp, not XION's task
 
 PreviousXIONNextDUSK
 
-Last updated 6 months ago

@@ -8,4 +8,3 @@ Before you go to tea's challenges, you will need to prepare your sources
 
 [PreviousTEA](broken-reference)[NextFirst Challenge](broken-reference)
 
-Last updated 5 months ago

@@ -18,4 +18,3 @@ Fill your amount of token then send and see the magic. You just created your own
 
 [PreviousDeploying Smart Contracts](broken-reference)[NextBridge tokens](broken-reference)
 
-Last updated 6 months ago

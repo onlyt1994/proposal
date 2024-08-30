@@ -20,4 +20,3 @@ For this challenge, it's kind of easy for everyone
 
 [PreviousPrepare](broken-reference)[NextSecond Challenge](broken-reference)
 
-Last updated 5 months ago

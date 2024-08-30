@@ -12,4 +12,3 @@ Please follow the instruction. If you have questions, please ask me at: [https:/
 
 [PreviousUbuntu Dependencies](broken-reference)[NextNillion](broken-reference)
 
-Last updated 6 months ago

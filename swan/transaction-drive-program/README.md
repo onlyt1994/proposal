@@ -19,4 +19,3 @@ Now pool is 900,000 so the reward will be x9
 
 PreviousPrepare Your Testnet Journey[NextDeploying Smart Contracts](<../../.gitbook/assets/deploying smart contracts>)
 
-Last updated 6 months ago

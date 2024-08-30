@@ -8,4 +8,3 @@ Next, prepare for Mainnet comming in early June 2024
 
 [PreviousOperator Node](broken-reference)[NextPrepare](broken-reference)
 
-Last updated 5 months ago

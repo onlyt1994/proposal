@@ -41,4 +41,3 @@ contract DNHToken is ERC20, Ownable {
 
 [PreviousTransaction Drive Program](broken-reference)[NextTransfer tokens](broken-reference)
 
-Last updated 6 months ago

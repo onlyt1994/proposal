@@ -58,4 +58,3 @@ make install
 
 PreviousDUSKNextFaucet
 
-Last updated 6 months ago

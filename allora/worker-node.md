@@ -60,4 +60,3 @@ Link: [https://app.allora.network/points/leaderboard](https://app.allora.network
 
 [PreviousAllora](broken-reference)[NextChainBase](broken-reference)
 
-Last updated 15 days ago

@@ -12,4 +12,3 @@ Check it out in the subtab!
 
 [PreviousChallenge 4](<../.gitbook/assets/challenge 4>)[NextKarnot AppChain (Closed)](<../.gitbook/assets/karnot appchain>)
 
-Last updated 5 months ago

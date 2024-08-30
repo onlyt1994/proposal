@@ -74,4 +74,3 @@ NFT Image should be
 
 PreviousKarnot AppChain (Closed)NextSWAN
 
-Last updated 4 months ago

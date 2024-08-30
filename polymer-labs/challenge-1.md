@@ -83,4 +83,3 @@ If you get the final results like image below, you are done. Capture your result
 
 PreviousPolymer LabsNextChallenge 2
 
-Last updated 5 months ago

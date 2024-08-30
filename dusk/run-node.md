@@ -63,4 +63,3 @@ tail -f /var/log/rusk.err
 
 PreviousFaucetNextStake tDUSK
 
-Last updated 6 months ago

@@ -6,4 +6,3 @@ Now, XION is in NFTs collecting. Therefore, you need to finish the task to colle
 
 [PreviousCourse](../.gitbook/assets/course)[NextAeroscraper NFT](<../.gitbook/assets/aeroscraper nft>)
 
-Last updated 6 months ago

@@ -9,4 +9,3 @@ For now, CESS currently has two programs for you to integrate
 
 [PreviousInteract with dApps](<../.gitbook/assets/interact with dapps>)[NextStorage Node](<../.gitbook/assets/storage node>)
 
-Last updated 6 months ago
