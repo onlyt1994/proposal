@@ -118,4 +118,4 @@ lz4 -d Story_snapshot.lz4 | pv | sudo tar xv -C /root/.story/story/
 
 #### Rerun the nodes <a href="#rerun-the-nodes" id="rerun-the-nodes"></a>
 
-Then run each node by command [above](https://about/story/validator#init-node)
+Then run each node by command [above](validator.md#init-node)
