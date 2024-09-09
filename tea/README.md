@@ -6,5 +6,3 @@ You will participate 6 challenges from 21st March to 15th May 2024
 
 Next, prepare for Mainnet comming in early June 2024
 
-[PreviousOperator Node](broken-reference)[NextPrepare](broken-reference)
-

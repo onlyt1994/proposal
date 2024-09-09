@@ -18,5 +18,3 @@ For this challenge, it's kind of easy for everyone
   * Just link your github to your account
   * Here you will get 1000 points in total
 
-[PreviousPrepare](broken-reference)[NextSecond Challenge](broken-reference)
-

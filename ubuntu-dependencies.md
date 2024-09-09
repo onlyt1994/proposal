@@ -66,5 +66,3 @@ sudo apt install clang
 sudo apt install protobuf-compiler
 ```
 
-[PreviousMy Name is](broken-reference)[NextSECURE YOUR RPC](broken-reference)
-

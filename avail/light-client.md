@@ -62,15 +62,20 @@ Run script
 
 Light CLient will log a **\`random public key\`** the first time it launches. Please save this public key. It will display like this:
 
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
 Visit: https://lightclient.availproject.org
 
 * Connect wallet (polkadotjs or subwallet)
 * Complete social tasks
 * For task 4.Complete Light-client Lift-Off challenge, take the public key obtained above, paste it into the input box and submit.
 
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+
 After completing all the tasks, the system will allow you to Mint NFT
+
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 NFT Image should be
 
-PreviousKarnot AppChain (Closed)NextSWAN
-
+![](<../.gitbook/assets/image (22).png>)

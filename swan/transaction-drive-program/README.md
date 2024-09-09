@@ -17,5 +17,4 @@ To 22nd March 2024, 00:00 (EST)
 
 Now pool is 900,000 so the reward will be x9
 
-PreviousPrepare Your Testnet Journey[NextDeploying Smart Contracts](<../../.gitbook/assets/deploying smart contracts>)
-
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@ Setup AppChain and Pull request to register
 
 ### Install dependencies <a href="#install-dependencies" id="install-dependencies"></a>
 
-Please go Ubuntu Dependencies to install
+Please go [Ubuntu Dependencies](../ubuntu-dependencies.md) to install
 
 ### Initialize Madara CLI <a href="#initialize-madara-cli" id="initialize-madara-cli"></a>
 
@@ -34,6 +34,8 @@ Mode: `Sovereign`
 DA layer: `Avail`
 
 You will see the result
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 #### Restore your old AppChain <a href="#restore-your-old-appchain" id="restore-your-old-appchain"></a>
 
@@ -79,6 +81,8 @@ If you get any questions in installing progress, just press Y then enter
 
 You should see the result in the end
 
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
 Press `Ctrl + B` then press `D` to exit `tmux session`
 
 #### Run explorer <a href="#run-explorer" id="run-explorer"></a>
@@ -92,6 +96,11 @@ Press `Ctrl + B` then press `D` to exit `tmux session`
 Go to the link `http://{your vps IP}:4000`
 
 #### Create PR to register your AppChain <a href="#create-pr-to-register-your-appchain" id="create-pr-to-register-your-appchain"></a>
+
+* Go to [Avail listing github](https://github.com/karnotxyz/avail-campaign-listing)
+* Fork it
+
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 * Then clone it in your computer
 * Create a JSON file named `{uuid}.json` in the `app_chains` folder with the syntax:
@@ -111,3 +120,5 @@ Go to the link `http://{your vps IP}:4000`
 * Create Pull Request on Github with titled `✨ Adding app_chain_name`
 * Wait for approving (Should be in 30 seconds)
 * If succesful, you will see the tag of your PR similar to
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>

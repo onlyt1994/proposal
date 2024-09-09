@@ -89,4 +89,4 @@ Your keys will be in `~/nillion/accuser`
 
 Show it by `cat ~/nillion/accuser/credentials.json`
 
-Then must save all, if you lost, you will never access your Accuser wallet again
+Then must save all, if you lost, you will never access your Accuser wallet again.

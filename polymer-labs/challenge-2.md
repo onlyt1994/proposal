@@ -38,4 +38,8 @@ just send-packet optimism
 
 The result should be below: `channel-16` and `channel-17`
 
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
 Check your package with TxHash with [Polymer zone](https://sepolia.polymer.zone/packets)
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>

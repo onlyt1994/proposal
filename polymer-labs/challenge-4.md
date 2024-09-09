@@ -20,13 +20,17 @@ cd testnet-challenge-3-template
 cp .env.example .env
 ```
 
-Then, you need to change the keys like the challenge 1
+Then, you need to change the keys like the [challenge 1](challenge-1.md)
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Doing <a href="#doing" id="doing"></a>
 
 Run install
 
 In `config.json` file, please change the address of Optimism portAddr to `0x691B9bB9f262f997263FBF47F968d2B08bb5a6B8`
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 In `Justfile`, add the script
 
@@ -62,6 +66,8 @@ Run the command
 
 You should see somethings in the end of your command
 
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 Go the [explorer of Optimism](https://optimism-sepolia.blockscout.com/)
 
 Check your wallet which you add secret key
@@ -74,13 +80,19 @@ You go to [OP Sepolia Explorer](https://optimism-sepolia.blockscout.com/) to fin
 
 Find your first tx `sendUniversalPacket` then click on it
 
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 Copy that TxHash, then go [Polymer Packet Zone](https://sepolia.polymer.zone/packets), Paste it
 
 Click on row, you just filtered, you will see somethings like below picture, screenshot it
 
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 You go to [OP Sepolia Explorer](https://optimism-sepolia.blockscout.com/) to find your wallet address
 
 Click on Tab Token transfer to get NFT Challenge 4 Token, then copy the url. It should be like `https://optimism-sepolia.blockscout.com/token/0x691B9bB9f262f997263FBF47F968d2B08bb5a6B8/instance/1`
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Proof will go
 

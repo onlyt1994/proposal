@@ -71,6 +71,8 @@ Create file environment
 
 Open your editor then fill [your keys](https://about/polymer-labs/challenge-1#api-keys) created above
 
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
 * 1: Your wallet's private key
 * 2: Alchemy API Key
 * 3: OP and Base blockscout API Key
@@ -81,5 +83,5 @@ If you come here without any error, let's try to create channel and send the pac
 
 If you get the final results like image below, you are done. Capture your results, send proof to [Polymer Labs Discord](https://discord.com/channels/839903468750635039/1213267408370794506)
 
-PreviousPolymer LabsNextChallenge 2
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 

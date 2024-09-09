@@ -10,5 +10,3 @@ I wrote the very detailed docs to setup your server with ports 26657 -> rpc, 131
 
 Please follow the instruction. If you have questions, please ask me at: [https://t.me/traifarmer](https://t.me/traifarmer)
 
-[PreviousUbuntu Dependencies](broken-reference)[NextNillion](broken-reference)
-

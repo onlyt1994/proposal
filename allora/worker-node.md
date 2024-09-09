@@ -58,5 +58,3 @@ Link: [http://worker-tx.nodium.xyz/](http://worker-tx.nodium.xyz/)
 
 Link: [https://app.allora.network/points/leaderboard](https://app.allora.network/points/leaderboard)
 
-[PreviousAllora](broken-reference)[NextChainBase](broken-reference)
-
