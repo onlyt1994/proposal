@@ -24,5 +24,3 @@ Check your node is participating in consensus and creating blocks when **it fini
 grep "execute_state_transition" /var/log/rusk.log | tail -n 5
 ```
 
-PreviousRun Node
-

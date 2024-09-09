@@ -109,3 +109,5 @@ Your chain will be sync in 1 or 2 days
 #### Check bucket status <a href="#check-bucket-status" id="check-bucket-status"></a>
 
 You will see the table showing your bucket status when your chain synchronized successfully
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>

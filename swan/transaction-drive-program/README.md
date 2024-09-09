@@ -17,4 +17,4 @@ To 22nd March 2024, 00:00 (EST)
 
 Now pool is 900,000 so the reward will be x9
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>

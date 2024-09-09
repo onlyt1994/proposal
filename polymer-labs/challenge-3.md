@@ -20,7 +20,7 @@ cp .env.example .env
 
 Then, you need to change the keys like the [challenge 1](challenge-1.md).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ### Doing <a href="#doing" id="doing"></a>
 
@@ -59,7 +59,7 @@ Run the command
 
 You should see somethings in the end of your command
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 Go server discord and show your proof
 
@@ -72,13 +72,13 @@ Wallet: (Your wallet address here)
 Contract: (Find the title in console log "PACKET IS ACKNOWLEDGED", show the txHash url)
 ```
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 You also will need to send 2 images:
 
 * Go [Packet Zone](https://sepolia.polymer.zone/packets): Paste your "PACKET HAS BEEN SENT" Txhash to here, then click the row then take a screenshot
 * Use the url contract above: go to `Logs` tab and take a screenshot
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 ### End here, Good Luck! <a href="#end-here-good-luck" id="end-here-good-luck"></a>

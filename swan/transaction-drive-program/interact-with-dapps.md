@@ -35,6 +35,3 @@ If you made a success payment, you should see somethings like
 ![](https://docs.daningyn.xyz/\~gitbook/image?url=https%3A%2F%2F3757123888-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Ff9qd7vpO0PsmY4EQvGgS%252Fuploads%252FoehwDITD4N9TgoFHqczv%252FScreenshot%25202024-02-26%2520at%252016.02.34.png%3Falt%3Dmedia%26token%3Da1c3b20a-053f-42e1-b45e-e5f6340480d4\&width=768\&dpr=4\&quality=100\&sign=55817d8e\&sv=1)
 
 If you reached here, congratulation!! You done for this task
-
-[PreviousBridge tokens](broken-reference)NextCESS
-

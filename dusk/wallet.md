@@ -4,7 +4,7 @@ You are able to use either Wallet UI Web or wallet-cli
 
 ### Wallet UI Web <a href="#wallet-ui-web" id="wallet-ui-web"></a>
 
-*
+* Link: [https://wallet.dusk.network/](https://wallet.dusk.network/)
 * Create new wallet
 * Save your seed phrase
 
@@ -55,6 +55,4 @@ make install
 #### Check Balance <a href="#check-balance" id="check-balance"></a>
 
 #### Get address <a href="#get-address" id="get-address"></a>
-
-PreviousDUSKNextFaucet
 

@@ -13,6 +13,8 @@ curl --proto '=https' --tlsv1.2 -sSfL https://github.com/dusk-network/itn-instal
 
 You should see the result
 
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
 ### Export consensus key <a href="#export-consensus-key" id="export-consensus-key"></a>
 
 ```
@@ -49,6 +51,8 @@ grep "block accepted" /var/log/rusk.log
 
 You would see somethings like below
 
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
 #### For success log <a href="#for-success-log" id="for-success-log"></a>
 
 ```
@@ -60,6 +64,3 @@ tail -f /var/log/rusk.log
 ```
 tail -f /var/log/rusk.err
 ```
-
-PreviousFaucetNextStake tDUSK
-

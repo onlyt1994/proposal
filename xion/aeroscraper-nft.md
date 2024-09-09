@@ -18,6 +18,8 @@ Enter your email which you used to log in XION
 
 Click faucet on Tab
 
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
 Click button `Faucet` to get `AST`
 
 You should see 4$ `AST` like image above
@@ -30,11 +32,15 @@ Enter your `AST` , you would see corresponding `aUSD`
 
 Then click on `Confirm`
 
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
 ### Deposit borrowed aUSD to Stability Pool <a href="#deposit-borrowed-ausd-to-stability-pool" id="deposit-borrowed-ausd-to-stability-pool"></a>
 
 Click on `Stability Pool` on Tab
 
 Enter your `aUSD` then Confirm
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 ### Mint your Aeroscraper NFT <a href="#mint-your-aeroscraper-nft" id="mint-your-aeroscraper-nft"></a>
 
@@ -49,6 +55,3 @@ Here is just more tasks in Aeroscraper dApp, not XION's task
 * You are able to withdraw your deposited token (`aUSD`)
 * Convert your token (click on `Redeem` in Tab)
 * If you keep your token in `Stability Pool` or trade, you would see your reward in `Rewards` Tab. Note that there is not your "real" reward, it's just testnet token
-
-PreviousXIONNextDUSK
-

@@ -24,5 +24,3 @@ If you faucet successfully, you will see the result
 
 Wait a minute then check your wallet!
 
-PreviousWalletNextRun Node
-

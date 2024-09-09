@@ -10,7 +10,6 @@ Please checkout [Bridge Tokens to SWAN](https://about/swan/prepare-your-testnet-
 
 Also you should checkout [Bridge Tokens to SWAN](https://about/swan/prepare-your-testnet-journey#bridge-tokens-to-swan) section, but you will need to change tab like image below
 
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
 The withdraw process will take you up to 7 days
-
-[PreviousTransfer tokens](broken-reference)[NextInteract with dApps](broken-reference)
-
