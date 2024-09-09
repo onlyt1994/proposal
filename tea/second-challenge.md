@@ -4,11 +4,17 @@ The Challenge is only available for anyone who get the banner on the top of webs
 
 Base on my experience in this challenge, there are some challenges being finished as below image
 
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+
 ### Claim & stake <a href="#claim-and-stake" id="claim-and-stake"></a>
 
 Go to `My Oss Projects` tab, you will see `Unclaimed Rewards` column at your Oss project
 
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+
 If it's greater than 0, click on `three dots` then `Claim Rewards`
+
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 Chose `Claim & Stake` then Stake all Rewards and Confirm
 
@@ -20,9 +26,13 @@ This Challenge will affect for all contributors in your OSS project. It means al
 
 Go back the home, then click `Stake TEA` to stake your TEA token to some projects
 
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+
 If you don't have the project to stake, search for `react-random-number-generator` to stake
 
 Then you can stake any TEA you want, I think I recommend that you stake 1000 TEA
+
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 Confirm and wait a little minutes to get 100 points
 
@@ -31,6 +41,8 @@ Confirm and wait a little minutes to get 100 points
 For this quest, you need to have `Unclaimed Staking Rewards` to claim
 
 You will have if you were done the `Stake to OSS Project` above then wait for 1-2 days, then you go app tea Home
+
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 ### Keep up with tea on Discord <a href="#keep-up-with-tea-on-discord" id="keep-up-with-tea-on-discord"></a>
 

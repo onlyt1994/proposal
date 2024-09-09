@@ -47,6 +47,8 @@ docker run -v ./nillion/accuser:/var/tmp nillion/retailtoken-accuser:v1.0.0 init
 
 You will see somethings like below
 
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+
 #### Verify On Website <a href="#verify-on-website" id="verify-on-website"></a>
 
 *
@@ -54,6 +56,8 @@ You will see somethings like below
 * Log Verifier, you will see the docs open then
 * Expand the fifth step
 * You will need to verify your `Account ID` and `Public Key` in 2 red boxes when you run initilizing docker image above
+
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 #### Faucet your Accuser wallet <a href="#faucet-your-accuser-wallet" id="faucet-your-accuser-wallet"></a>
 
@@ -77,10 +81,15 @@ docker run -v ./nillion/accuser:/var/tmp nillion/retailtoken-accuser:v1.0.0 accu
 
 When it was registered successfully, you will see somethings like
 
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+
 `Ctrl + C` three times to stop logs
 
 * Check Container ID with command `docker ps`
 * Find Container with Image of `Nillion` in the list then get `Container ID` in the first word of line
+
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+
 * Check by command `docker logs CONTAINER_ID -n 200 -f`
 
 ### Save your keys <a href="#save-your-keys" id="save-your-keys"></a>

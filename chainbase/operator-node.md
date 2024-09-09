@@ -76,6 +76,8 @@ eigenlayer operator keys create --key-type ecdsa opr
 * Then, `Ctrl+C` + `Enter` + `Enter`
 * Save all data in image
 
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+
 #### Import old Eigenlayer wallet <a href="#import-old-eigenlayer-wallet" id="import-old-eigenlayer-wallet"></a>
 
 ```
@@ -121,6 +123,8 @@ eigenlayer operator config create
 * You will see the json missing `metadata_url` data
 * Put `metadata.json` 's raw data you created above, get it as image below
 
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+
 #### Run Holesky Eigenlayer <a href="#run-holesky-eigenlayer" id="run-holesky-eigenlayer"></a>
 
 ```
@@ -130,6 +134,8 @@ eigenlayer operator register operator.yaml
 Enter your password you set above
 
 Wait until you see as below
+
+<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 **Check Eigenlayer status**
 

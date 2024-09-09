@@ -3,6 +3,8 @@
 * [My Name is](README.md)
 * [Ubuntu Dependencies](ubuntu-dependencies.md)
 * [SECURE YOUR RPC](secure-your-rpc.md)
+* [Story](story/README.md)
+  * [Validator](story/validator.md)
 * [Nillion](nillion/README.md)
   * [Verifier Node](nillion/verifier-node.md)
 * [Allora](allora/README.md)

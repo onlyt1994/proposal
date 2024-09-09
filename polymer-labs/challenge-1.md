@@ -12,7 +12,7 @@ First, you need to send the packages to get verify that you know technical skill
 
 Git
 
-*
+* Please go [Ubuntu Dependencies](../ubuntu-dependencies.md) to know how to install git
 
 Nodejs v18+
 
@@ -40,9 +40,9 @@ Forge (It will be installed if you installed Foundry successfully)
 
 #### API Keys <a href="#api-keys" id="api-keys"></a>
 
-*
-*
-*
+* [Optimism Sepolia](https://optimism-sepolia.blockscout.com/account/api-key) Blockscout Explorer API
+* [Base Sepolia](https://base-sepolia.blockscout.com/account/api-key) Blockscout Explorer API
+* [Alchemy API Key](https://docs.alchemy.com/docs/alchemy-quickstart-guide)
 
 #### Faucet <a href="#faucet" id="faucet"></a>
 
@@ -54,6 +54,8 @@ Forge (It will be installed if you installed Foundry successfully)
 Go to [repo](https://github.com/open-ibc/ibc-app-solidity-template/tree/main)
 
 Create new repo from the template without any commits in the main repo
+
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 ### Installation <a href="#installation" id="installation"></a>
 

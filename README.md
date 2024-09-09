@@ -12,8 +12,6 @@ If you know some projects and want me to research, just ask me
 
 Buy me a coffee ☕ ☕
 
-* 0x:0xbebdfd8683f88ceb04c2d8be56ec244106c0d8e2\
-
+* 0x:0xbebdfd8683f88ceb04c2d8be56ec244106c0d8e2
 
 If you buy me a coffee or tea, send me tx. I will send my thanks to you. I appreciate that.
-
